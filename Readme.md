@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Денис Титов](https://up.htmlacademy.ru/php/7/user/297689).
-* Наставник: `Неизвестно`.
+* Наставник: [Кирилл Сенкевич](https://htmlacademy.ru/profile/id295429).
 
 ---
 
